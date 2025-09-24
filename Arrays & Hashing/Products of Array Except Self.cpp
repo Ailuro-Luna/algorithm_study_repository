@@ -1,4 +1,6 @@
 // https://neetcode.io/problems/products-of-array-discluding-self
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

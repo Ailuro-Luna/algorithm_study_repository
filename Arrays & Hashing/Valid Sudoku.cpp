@@ -1,4 +1,6 @@
 // https://neetcode.io/problems/valid-sudoku
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
